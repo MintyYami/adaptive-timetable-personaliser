@@ -1,11 +1,11 @@
 
-## 🧠 Smart Task Scheduler
+# Ctr + Plan
 
-A smart task management and scheduling web app that integrates an interactive calendar with AI-assisted workload balancing. Built with Next.js, Supabase, and React Big Calendar, this project helps students plan around deadlines and wcoursework while also balance social life and events.
+A smart task management and scheduling web app that integrates an interactive calendar with AI-assisted workload balancing. Built with Next.js, Supabase, and React Big Calendar, this project helps students plan around deadlines and wcoursework while also balance social life and events. A project built and designed within a 24-hour period for Wawrwick Hackathon.
 
 ⸻
 
-# ✨ Features
+## ✨ Features
 	•	🗓 Interactive Calendar – View all coursework, events, and AI-suggested study sessions in one place using React Big Calendar.
 	•	✍️ Task Creation Modal – Add new items dynamically via a modern, theme-aligned modal interface.
 	•	📚 Multiple Task Types – Supports:
